@@ -1,6 +1,4 @@
-# main.py
-```python
-# main.py
+
 """
 End-to-end BraTS segmentation pipeline.
 
